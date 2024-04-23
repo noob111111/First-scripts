@@ -1,2 +1,5 @@
 # First-scripts
-Scripts i made when starting out
+Current scripts
+- Image to txt
+- Txt to image
+Note, you can change the resolution in the code (default is 51:39)
